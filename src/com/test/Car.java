@@ -1,3 +1,3 @@
-class Car{
+public class Car{
 	private Tire tire;
 }
